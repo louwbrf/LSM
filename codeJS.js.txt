@@ -1,0 +1,9 @@
+function afficheListe(){
+	if (document.getElementById("afficheMotivation").innerHTML=="Masquer les motivations"){
+		document.getElementById("divlisteMotivation").style.display="none";
+		document.getElementById("afficheMotivation").innerHTML="Voir les motivations "
+	}else{
+		document.getElementById("divlisteMotivation").style.display="block";
+		document.getElementById("afficheMotivation").innerHTML="Masquer les motivations"
+	}
+}

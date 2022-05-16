@@ -1,0 +1,44 @@
+body { background-color : #fffcf0; }
+h1 {color :#ffbfe4; text-align : center ;font-size : 30pt; font-family : system-ui ;}
+h3 {color :#ffbfe4; text-align : center ;font-size : 30pt; font-family : system-ui ; padding : 10px 0 10px;}
+h2 {text-align: left;font-size : 15pt;font-family : system-ui; color : #a7e9CE; margin-left : 15px;}
+h4 {text-align: left;font-size : 20pt;font-family : system-ui; color : #a7e9CE; margin-left : 15px;}
+h5 {text-align: left;font-size : 20pt;font-family : system-ui; color : #ffbee0; margin-left : 15px;}*
+h6 {color : #fffcf0;}
+ol {list-style-type: circle ; }
+p {font-family : system-ui ; margin-left:15px; margin-right : 20px; font-size: 16pt;}
+p1 {font-family : system-ui ; padding : 0 0}
+p2 {color : #fffcf0}
+p7 {font-family : system-ui ; margin-left:15px; margin-right : 20px; font-size: 13pt;}
+
+table , td , th , tr { border : 1px solid  #c7ffe5;}
+th {font-size : 15pt;}
+td , th , tr { padding : 8px ;}
+ul { font-family : system-ui;}
+
+#Image{width: 500px;height : auto;display: block; margin-left:15px}
+#Image3{widht : 325px; height : 325px;}
+#qAir{widht : 200px; height : 200px;}
+#imageAir{widht : 100px; height : 100px;padding : 0 15px 0;}
+.image {float : left; padding : 0 15px 30px; }
+.image2 {float : left; padding :80px 15px 220px;}
+.image3 {float : left; padding : 0 15px ; }
+.image4 {float : right; padding : 0 15px 30px; }
+
+#Source {text-align: right; font-size:12pt;}
+.definition{font-style : italic; font-size : 18px;}
+#ImageNSI{width: 500px;height : auto;display: block;margin-left: auto; margin-right: auto;}
+#tableAttaques {background-color : #a7e9CE ; }
+#textvideo{text-align: center}
+.nb {width : 120px ; }
+div{font-size : 16pt; text-align : justify; font-family:'Times New Roman';}
+a{color : blue; font-size : 14pt; font-family : 'Times New Roman'; font-weight : bold}
+ul{font-size : 14pt}
+div#divlisteMotivation{display : none ; font-size : 16pt; color : #ffbee0 ;}
+
+#bandeau {list-style-type: none;margin: auto;padding: 0;overflow: hidden;background-color: #ff9935;}
+.Sommaire {float: left;}
+.Sommaire a { display: block; color: #fffcf0 ; text-align: center; padding: 14px 16px;font-family : system-ui ;}
+.Sommaire:hover {background-color: #ffbee0; text-decoration: underlign;}
+#bandeau {position: -webkit-sticky; position: sticky;top: 0;}
+.lien{text-decoration:none;}
